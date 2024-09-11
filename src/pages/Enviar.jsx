@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 const Enviar = () => {
   return (
     <>
-      <header id='headerHomePage'>
+      <header id='headerHomePage2'>
         <img src={logo} alt="logo" />
         <h1>Seja bem vindo!</h1>
       </header>

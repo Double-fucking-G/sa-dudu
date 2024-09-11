@@ -132,7 +132,18 @@ textarea:focus{
   row-gap: 12px;
 }
 
-#headerHomePage img{
+#headerHomePage2{
+  display: grid;
+  grid-template-columns: 1fr 10fr 1fr;
+  grid-template-rows: 1fr;
+  justify-content: center;
+  align-items: center;
+  padding: 1.5rem;
+  row-gap: 12px;
+  text-align: center;
+}
+
+#headerHomePage img, #headerHomePage2 img{
   height: 90px;
 }
 
